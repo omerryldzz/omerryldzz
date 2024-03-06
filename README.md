@@ -1,4 +1,4 @@
- 
+https://www.shutterstock.com/shutterstock/photos/1054542323/display_1500/stock-vector-data-science-vector-icon-1054542323.jpg 
 <h1 align="center">Hi 👋, I'm Ömer Yıldız</h1>
 <h3 align="center">A passionate data science from Turkey</h3>
 
