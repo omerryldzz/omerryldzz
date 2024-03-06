@@ -1,4 +1,4 @@
-(https://images.app.goo.gl/h7aYtkUGH1SWoeS48)
+ 
 <h1 align="center">Hi 👋, I'm Ömer Yıldız</h1>
 <h3 align="center">A passionate data science from Turkey</h3>
 
