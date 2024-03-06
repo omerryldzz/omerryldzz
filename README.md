@@ -1,4 +1,4 @@
- C:\Users\Ömer\Downloads\1707411463497.jpeg
+ 
 <h1 align="center">Hi 👋, I'm Ömer Yıldız</h1>
 <h3 align="center">A passionate data science from Turkey</h3>
 
