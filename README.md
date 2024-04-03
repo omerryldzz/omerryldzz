@@ -1,4 +1,5 @@
-  ![image](https://github.com/omerryldzz/omerryldzz/assets/154246373/c5f7d80f-b51a-4e6d-b336-accdb7db6e2b)
+  ! ![68747470733a2f2f7777772e63796265726d61676f6e6c696e652e636f6d2f75706c6f61642f79617061792d7a656b612e676966](https://github.com/omerryldzz/omerryldzz/assets/154246373/de41f101-d7ed-4a1c-925b-5399e7f5b6bd)
+
 
 <h1 align="center">Hi 👋, I'm Ömer Yıldız</h1>
 <h3 align="center">A passionate data science from Turkey</h3>
